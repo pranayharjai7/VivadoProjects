@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Fri Oct 15 14:32:31 2021
+# Process ID: 2896
+# Current directory: C:/Pranay/Projects/vivado/Lab4_1/Lab4_1.runs/impl_1
+# Command line: vivado.exe -log Lab4_1verilog.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab4_1verilog.tcl -notrace
+# Log file: C:/Pranay/Projects/vivado/Lab4_1/Lab4_1.runs/impl_1/Lab4_1verilog.vdi
+# Journal file: C:/Pranay/Projects/vivado/Lab4_1/Lab4_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab4_1verilog.tcl -notrace
